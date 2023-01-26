@@ -1,0 +1,23 @@
+.logo img {
+    width: 200px;
+}
+
+ul {
+    list-style-type: none;
+    display: flex;
+    gap: 80px;
+    color: aliceblue;
+    font-size: 24px;
+}
+
+.header {
+    background: grey;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 8px;
+}
+
+.right {
+    margin-right: 200px;
+}
